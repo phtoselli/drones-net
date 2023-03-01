@@ -10,7 +10,7 @@ The purpose of this repository is to develop a static website based on the model
 
 > Deploy
 
-You can preview this project online by accessing the link [link](link)
+You can preview this project online by accessing the [link](https://phtoselli.github.io/drones-net/).
 
 ---
 
@@ -37,3 +37,11 @@ open index.html
 ```
 
 You can add content and styles however you want by changing the `index.htm` and `style.css` files.
+
+
+## Author
+
+| [<img src="https://avatars.githubusercontent.com/u/73919445?s=96&v=4"><br><sub>@phtoselli</sub>](https://github.com/phtoselli) |
+| :---: |
+
+
