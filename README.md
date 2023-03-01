@@ -36,7 +36,7 @@ cd drones-net
 open index.html
 ```
 
-You can add content and styles however you want by changing the `index.htm` and `style.css` files.
+You can add content and styles however you want by changing the `index.html` and `style.css` files.
 
 
 ## Author
