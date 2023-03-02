@@ -1,4 +1,4 @@
-## Hi👋 welcome to DronesNET repository!!
+## Hi👋, welcome to DronesNET repository!!
 
 The purpose of this repository is to develop a static website based on the model below.
 
